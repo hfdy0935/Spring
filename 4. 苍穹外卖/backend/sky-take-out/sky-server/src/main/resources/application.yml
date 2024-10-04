@@ -1,0 +1,72 @@
+server:
+    port: 8000
+    address: 0.0.0.0
+
+spring:
+    profiles:
+        active: dev
+    main:
+        allow-circular-references: true
+    datasource:
+        #        druid:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://${sky.datasource.mysql.host}:${sky.datasource.mysql.port}/${sky.datasource.mysql.database}?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+        username: ${sky.datasource.mysql.username}
+        password: ${sky.datasource.mysql.password}
+    application:
+        name: sky-server
+    data:
+        redis:
+            host: ${sky.datasource.redis.host}
+            port: ${sky.datasource.redis.port}
+            password: ${sky.datasource.redis.password}
+    cache:
+        redis:
+            time-to-live: "10m"
+            cache-null-values: true
+        type: redis
+
+mybatis-plus:
+    #mapper配置文件
+    mapper-locations: classpath*:mapper/**/*.xml
+    type-aliases-package: com.hfdy.sky.pojo.entity
+    configuration:
+        #开启驼峰命名
+        map-underscore-to-camel-case: true
+    global-config:
+        db-config:
+            id-type: AUTO
+
+
+logging:
+    level:
+        com:
+            sky:
+                server:
+                    mapper: debug
+                    service: info
+                    controller: info
+
+sky:
+    jwt:
+        # 设置jwt签名加密时使用的秘钥
+        admin-secret-key: hfdy-sky-take-out-admin-secret-key-test-proj
+        # 设置jwt过期时间
+        admin-ttl: 7200000
+        # 设置前端传递过来的令牌名称
+        admin-token-name: Token
+        # jwt签名加密时使用的密钥
+        user-secret-key: hfdy-sky-take-out-client-secret-key-test-proj
+        # jwt过期时间
+        user-ttl: 72000000
+        # 请求头中前端传来的令牌key
+        user-token-name: authentication
+    alioss:
+        endpoint: ${sky.alioss.endpoint}
+        access-key-id: ${sky.alioss.access-key-id}
+        access-key-secret: ${sky.alioss.access-key-secret}
+        bucket-name: ${sky.alioss.bucket-name}
+    wechat:
+        appid: ${sky.wechat.appid}
+        secret: ${sky.wechat.secret}
+

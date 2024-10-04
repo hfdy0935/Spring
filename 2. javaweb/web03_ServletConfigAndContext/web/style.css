@@ -1,0 +1,16 @@
+.box {
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s linear;
+    background-color: rgb(200, 100, 100);
+    margin: 100px;
+
+    &:hover {
+        background-color: deepskyblue;
+    }
+}

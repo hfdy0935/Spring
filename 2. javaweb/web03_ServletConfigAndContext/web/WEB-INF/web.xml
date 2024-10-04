@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+         version="6.0">
+    <servlet>
+        <servlet-name>servlet1</servlet-name>
+        <servlet-class>com.atguigu.servlet.Servlet1</servlet-class>
+        <!--        初始参数-->
+        <init-param>
+            <param-name>keyA</param-name>
+            <param-value>value1</param-value>
+        </init-param>
+        <init-param>
+            <param-name>keyB</param-name>
+            <param-value>value2</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servlet1</servlet-name>
+        <url-pattern>/servlet1</url-pattern>
+    </servlet-mapping>
+    <!--    全局配置-->
+    <context-param>
+        <param-name>globalParam1</param-name>
+        <param-value>我是servletContext配置的全局参数1</param-value>
+    </context-param>
+    <context-param>
+        <param-name>globalParam2</param-name>
+        <param-value>我是servletContext配置的全局参数2</param-value>
+    </context-param>
+</web-app>

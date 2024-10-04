@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: cloud-provider-payment8002
+    ####Spring Cloud Consul for Service Discovery
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+      config:
+        profile-separator: '-' # default value is ","，we update '-'
+        format: YAML
+
+
+  # config/cloud-provider-payment8001/data
+  #       /cloud-provider-payment8001-dev/data
+  #       /cloud-provider-payment8001-prod/data
+

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web03_ServletConfigAndContext:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web03_ServletConfigAndContext_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="web03_ServletConfigAndContext/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web03_ServletConfigAndContext" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

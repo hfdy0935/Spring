@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="196fd487-0e66-4205-a327-93576cc7be10" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cloud_provider_payment/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-4.0.0-beta-3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lNjIyj0xuZoDFGqnSAQYP9WSas" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.cloud-api-commons [clean].executor": "Run",
+    "Maven.cloud-api-commons [install].executor": "Run",
+    "Maven.cloud-api-commons [site].executor": "Run",
+    "Maven.cloud-api-commons [validate].executor": "Run",
+    "Maven.cloud-consumer-order80 [clean].executor": "Run",
+    "Maven.cloud-provider-payment8001 [clean].executor": "Run",
+    "Maven.cloud2024 [clean].executor": "Run",
+    "Maven.cloud2024 [compile].executor": "Run",
+    "Maven.cloud_api_commons [clean].executor": "Run",
+    "Maven.cloud_api_commons [install].executor": "Run",
+    "Maven.cloud_provider_payment [clean].executor": "Run",
+    "Maven.cloud_provider_payment8001 [clean].executor": "Run",
+    "Maven.mybatis-generator [clean].executor": "Run",
+    "Maven.mybatis-generator [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.mybatis-generator [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:generate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Main3377.executor": "Run",
+    "Spring Boot.Main80.executor": "Run",
+    "Spring Boot.Main8001.executor": "Run",
+    "Spring Boot.Main8002.executor": "Run",
+    "Spring Boot.Main83.executor": "Run",
+    "Spring Boot.Main8401.executor": "Run",
+    "Spring Boot.Main9001.executor": "Run",
+    "Spring Boot.Main9002 copy from 9001.executor": "Run",
+    "Spring Boot.Main9527.executor": "Run",
+    "Spring Boot.Main9528.executor": "Run",
+    "Spring Boot.MainOpenFeign80.executor": "Run",
+    "Spring Boot.MainSeataStorageMainApp2002.executor": "Run",
+    "Spring Boot.SeataAccountMainApp2003.executor": "Run",
+    "Spring Boot.SeataOrderMainApp2001.executor": "Run",
+    "Spring Boot.SeataStorageMainApp2002.executor": "Run",
+    "extract.method.default.visibility": "private",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Desktop/program/cloud2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/Desktop/program/cloud2024/cloud_consumer_order80/src/main/java/com/atguigu/cloud/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "E:\\IDEA\\IntelliJ IDEA 2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.cloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\program\cloud2024" />
+      <recent name="E:\Desktop\program\cloud2024\mybatis-generator\src\main\java\com\atguigu\cloud" />
+      <recent name="E:\Desktop\program\cloud2024\cloud-consumer-order80\src\main\resources" />
+      <recent name="E:\Desktop\program\cloud2024\cloud_api_commons\src\main\java\com\atguigu\cloud" />
+      <recent name="E:\Desktop\program\cloud2024\cloud_consumer_order80\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\program\cloud2024\cloud_provider_payment8001\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.cloud.entities" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle 任务" flag="true" />
+      <visibility group="Grunt" flag="true" />
+      <visibility group="Gulp" flag="true" />
+      <visibility group="HTTP 请求" flag="true" />
+      <visibility group="Maven 目标" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="npm" flag="true" />
+      <visibility group="yarn" flag="true" />
+      <visibility group="最近的项目" flag="true" />
+      <visibility group="运行配置" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeataOrderMainApp2001">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="cloud-provider-payment8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="cloud-provider-payment8001" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataAccountMainApp2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.SeataAccountMainApp2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMainApp2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.SeataOrderMainApp2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageMainApp2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.SeataStorageMainApp2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
+      <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
+      <item itemvalue="Spring Boot.SeataStorageMainApp2002" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="196fd487-0e66-4205-a327-93576cc7be10" name="更改" comment="" />
+      <created>1725027351428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725027351428</updated>
+      <workItem from="1725027352427" duration="375000" />
+      <workItem from="1725027732139" duration="28000" />
+      <workItem from="1725027778041" duration="24000" />
+      <workItem from="1725027806327" duration="16000" />
+      <workItem from="1725027830727" duration="263000" />
+      <workItem from="1725028099528" duration="751000" />
+      <workItem from="1725028861015" duration="150000" />
+      <workItem from="1725029015618" duration="417000" />
+      <workItem from="1725064274205" duration="337000" />
+      <workItem from="1725064616672" duration="1084000" />
+      <workItem from="1725065801026" duration="12180000" />
+      <workItem from="1725088216926" duration="14866000" />
+      <workItem from="1725105256776" duration="237000" />
+      <workItem from="1725105502119" duration="656000" />
+      <workItem from="1725106166278" duration="707000" />
+      <workItem from="1725176420441" duration="7833000" />
+      <workItem from="1725190418478" duration="13103000" />
+      <workItem from="1725236579506" duration="10849000" />
+      <workItem from="1725277580807" duration="245000" />
+      <workItem from="1725278192119" duration="7347000" />
+      <workItem from="1725324545897" duration="12155000" />
+      <workItem from="1725344954145" duration="13897000" />
+      <workItem from="1725375005672" duration="2854000" />
+      <workItem from="1725411229971" duration="9345000" />
+      <workItem from="1725432294130" duration="5964000" />
+      <workItem from="1725438283977" duration="2488000" />
+      <workItem from="1725440784128" duration="2699000" />
+      <workItem from="1725451892086" duration="9686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../Maven/repository/org/springframework/spring-beans/6.1.1/spring-beans-6.1.1.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.class</url>
+          <line>84</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../Maven/repository/org/springframework/spring-beans/6.1.1/spring-beans-6.1.1.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.class</url>
+          <line>86</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud_comsumer_order80/src/main/java/com/atguigu/cloud/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
