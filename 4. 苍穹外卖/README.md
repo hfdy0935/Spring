@@ -1,6 +1,6 @@
 <h1 align="center">开发时</h1>
 
-> 替换sky.sql中的图片路径为自己阿里云OSS村的图片路径
+> 替换sky.sql中的图片路径为自己阿里云OSS中的图片路径 <br\>
 > 替换application-dev.yml中阿里云OSS的key和secret、微信小程序的key和secret
 
 # 1. MySQL
