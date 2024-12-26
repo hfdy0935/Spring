@@ -41,7 +41,7 @@ public class OrderTask {
 
     @Scheduled(cron = "0 0 1 * * *") // 每天1：00执行，修改昨天派送中订单为已完成
     public void processDeliverOrder() {
-        log.info("粗粒派送中订单：{}", LocalDateTime.now());
+        log.info("处理派送中订单：{}", LocalDateTime.now());
         LocalDateTime localDateTime = LocalDateTime.now().minusHours(1);
         LambdaQueryWrapper<Orders> ordersLambdaQueryWrapper = new LambdaQueryWrapper<>();
         ordersLambdaQueryWrapper.eq(Orders::getStatus, Orders.DELIVERY_IN_PROGRESS).le(Orders::getOrderTime, localDateTime);
